@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
     s.source       = {:git => 'https://github.com/ChaselAn/SwipableCell.git', :tag => s.version}
     s.source_files = 'EditTableViewCell/SwipableCell/*.swift'
     s.requires_arc = true
-    s.dependency 'Texture', '~> 2.6'
+    s.dependency 'Texture', '~> 3.0.0Õ
 end
